@@ -1,0 +1,114 @@
+﻿Installation de l'assembly 'C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.InstallLog
+   assemblypath = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe
+Aucun programme d'installation public avec l'attribut RunInstallerAttribute.Yes n'a été trouvé dans l'assembly C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe.
+Validation de l'assembly 'C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.InstallLog
+   assemblypath = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe
+Aucun programme d'installation public avec l'attribut RunInstallerAttribute.Yes n'a été trouvé dans l'assembly C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe.
+Suppression du fichier InstallState, car aucun programme d'installation n'est présent.
+Désinstallation de l'assembly 'C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.InstallLog
+   assemblypath = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe
+Suppression de la source EventLog gsb.
+Une exception s'est produite lors de la désinstallation du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: La source est introuvable mais certains ou l'ensemble des journaux des événements n'ont pas pu faire l'objet d'une recherche. Journaux inaccessibles : Security, State.
+Une exception s'est produite lors de la désinstallation. Cette exception est ignorée et la désinstallation se poursuit. Cependant, l'application ne sera pas totalement désinstallée une fois la désinstallation terminée.
+Installation de l'assembly 'C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.InstallLog
+   assemblypath = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe
+Installation du service gsb en cours...
+Création d'une source EventLog gsb dans le journal Application...
+Restauration de l'assembly 'C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.InstallLog
+   assemblypath = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe
+Restauration de l'état précédent du journal des événements pour la source gsb.
+Une exception s'est produite lors de la phase de restauration du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: La source est introuvable mais certains ou l'ensemble des journaux des événements n'ont pas pu faire l'objet d'une recherche. Journaux inaccessibles : Security, State.
+Une exception s'est produite lors de la phase de restauration de l'installation. Cette exception est ignorée et la restauration se poursuit. Cependant, l'ordinateur ne sera pas totalement restauré à son état initial à la fin de la restauration.
+Désinstallation de l'assembly 'C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.InstallLog
+   assemblypath = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe
+Suppression de la source EventLog gsb.
+Une exception s'est produite lors de la désinstallation du programme d'installation System.Diagnostics.EventLogInstaller.
+System.Security.SecurityException: La source est introuvable mais certains ou l'ensemble des journaux des événements n'ont pas pu faire l'objet d'une recherche. Journaux inaccessibles : Security, State.
+Une exception s'est produite lors de la désinstallation. Cette exception est ignorée et la désinstallation se poursuit. Cependant, l'application ne sera pas totalement désinstallée une fois la désinstallation terminée.
+Désinstallation de l'assembly 'C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.InstallLog
+   assemblypath = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe
+Suppression de la source EventLog gsb.
+Avertissement : la source gsb n'est pas inscrite sur l'ordinateur local.
+Le service gsb est en cours de suppression du système...
+Une exception s'est produite lors de la désinstallation du programme d'installation System.ServiceProcess.ServiceInstaller.
+System.ComponentModel.Win32Exception: Le service spécifié n’existe pas en tant que service installé
+Une exception s'est produite lors de la désinstallation. Cette exception est ignorée et la désinstallation se poursuit. Cependant, l'application ne sera pas totalement désinstallée une fois la désinstallation terminée.
+Installation de l'assembly 'C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.InstallLog
+   assemblypath = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe
+Installation du service gsb en cours...
+Le service gsb a été installé avec succès.
+Création d'une source EventLog gsb dans le journal Application...
+Validation de l'assembly 'C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.InstallLog
+   assemblypath = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe
+Désinstallation de l'assembly 'C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.InstallLog
+   assemblypath = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe
+Suppression de la source EventLog gsb.
+Le service gsb est en cours de suppression du système...
+Le service gsb a été retiré avec succès du système.
+Tentative d'arrêt du service gsb.
+Installation de l'assembly 'C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.InstallLog
+   assemblypath = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe
+Installation du service gsb en cours...
+Le service gsb a été installé avec succès.
+Création d'une source EventLog gsb dans le journal Application...
+Validation de l'assembly 'C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.InstallLog
+   assemblypath = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe
+Désinstallation de l'assembly 'C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.InstallLog
+   assemblypath = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe
+Suppression de la source EventLog gsb.
+Le service gsb est en cours de suppression du système...
+Le service gsb a été retiré avec succès du système.
+Installation de l'assembly 'C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.InstallLog
+   assemblypath = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe
+Installation du service gsb en cours...
+Le service gsb a été installé avec succès.
+Création d'une source EventLog gsb dans le journal Application...
+Validation de l'assembly 'C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe'.
+Les paramètres affectés sont :
+   logtoconsole = 
+   logfile = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.InstallLog
+   assemblypath = C:\Users\belle\source\repos\Mission4GSB\WindowsService_gsbMission4\bin\Debug\WindowsService_gsbMission4.exe

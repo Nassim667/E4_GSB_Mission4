@@ -1,0 +1,106 @@
+<?xml version="1.0"?>
+<doc>
+    <assembly>
+        <name>Mission4GSB</name>
+    </assembly>
+    <members>
+        <member name="M:Mission4GSB.Controleur.Mgr.updateCL(Mission4GSB.GestionDate)">
+            <summary>
+            Mise a jour des fiches frais de l'etat CR à CL
+            </summary>
+            <param name="d"></param>
+        </member>
+        <member name="M:Mission4GSB.Controleur.Mgr.updateRB(Mission4GSB.GestionDate)">
+            <summary>
+            Mise a jour des fiches frais de l'etat VA à RB
+            </summary>
+            <param name="d"></param>
+        </member>
+        <member name="M:Mission4GSB.ConnexionSql.GetInstance(System.String,System.String,System.String,System.String)">
+            méthode de création d'une instance de connexion si elle n'existe pas (singleton)
+        </member>
+        <member name="M:Mission4GSB.ConnexionSql.openConnection">
+            Ouverture de la connexion
+        </member>
+        <member name="M:Mission4GSB.ConnexionSql.closeConnection">
+            Fermeture de la connexion
+        </member>
+        <member name="M:Mission4GSB.ConnexionSql.reqExec(System.String)">
+            Exécutiuon d'une requête
+        </member>
+        <member name="M:Mission4GSB.Form1.InitializeTimer">
+            <summary>
+            Initialise le timer
+            </summary>
+        </member>
+        <member name="M:Mission4GSB.Form1.timer1_Tick(System.Object,System.EventArgs)">
+            <summary>
+            changement de l'etat des fiches frais en fonction de la date à chaque fois que l'intervalle du timer est passé
+            </summary>
+            <param name="sender"></param>
+            <param name="e"></param>
+        </member>
+        <member name="F:Mission4GSB.Form1.components">
+            <summary>
+            Variable nécessaire au concepteur.
+            </summary>
+        </member>
+        <member name="M:Mission4GSB.Form1.Dispose(System.Boolean)">
+            <summary>
+            Nettoyage des ressources utilisées.
+            </summary>
+            <param name="disposing">true si les ressources managées doivent être supprimées ; sinon, false.</param>
+        </member>
+        <member name="M:Mission4GSB.Form1.InitializeComponent">
+            <summary>
+            Méthode requise pour la prise en charge du concepteur - ne modifiez pas
+            le contenu de cette méthode avec l'éditeur de code.
+            </summary>
+        </member>
+        <member name="T:Mission4GSB.GestionDate">
+            <summary>
+            Classe qui gènere les dates dont on a besoin 
+            tel que la date du jour, le mois précédent, le mois suivant
+            </summary>
+        </member>
+        <member name="M:Mission4GSB.GestionDate.dateJour">
+            <summary>
+            Récupération de la date du jour
+            </summary>
+            <returns> date du jour dans le format yyyyMM </returns>
+        </member>
+        <member name="M:Mission4GSB.GestionDate.moisPrecedent">
+            <summary>
+            Récuperation du mois qui précede le mois courant
+            </summary>
+            <returns>mois precedent dans le format yyyyMM </returns>
+        </member>
+        <member name="M:Mission4GSB.GestionDate.moisSuivant">
+            <summary>
+            Récuperation du mois qui suit le mois courant
+            </summary>
+            <returns> mois suivant dans le format yyyyMM </returns>
+        </member>
+        <member name="M:Mission4GSB.Program.Main">
+            <summary>
+            Point d'entrée principal de l'application.
+            </summary>
+        </member>
+        <member name="T:Mission4GSB.Properties.Resources">
+            <summary>
+              Une classe de ressource fortement typée destinée, entre autres, à la consultation des chaînes localisées.
+            </summary>
+        </member>
+        <member name="P:Mission4GSB.Properties.Resources.ResourceManager">
+            <summary>
+              Retourne l'instance ResourceManager mise en cache utilisée par cette classe.
+            </summary>
+        </member>
+        <member name="P:Mission4GSB.Properties.Resources.Culture">
+            <summary>
+              Remplace la propriété CurrentUICulture du thread actuel pour toutes
+              les recherches de ressources à l'aide de cette classe de ressource fortement typée.
+            </summary>
+        </member>
+    </members>
+</doc>
